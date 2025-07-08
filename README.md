@@ -1,1 +1,1 @@
-# poc-parent-module
+# poc-themes-submodule
